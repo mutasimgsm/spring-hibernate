@@ -11,4 +11,9 @@
 /hb-one-to-one/lib
 /hibernate-toturial/bin
 /hibernate-toturial/lib
+/RemoteSystemsTempFiles/
+/Servers/
+/web-customer-tracker/WebContent/WEB-INF/lib
+/web-customer-tracker/bin
 
+/.metadata/
