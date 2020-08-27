@@ -1,0 +1,14 @@
+
+
+.metadata/*
+/hb-05-many-to-many/lib
+/hb-05-many-to-many/bin
+/hb-one-to-many-bi/bin
+/hb-one-to-many-bi/lib
+/hb-one-to-many/bin
+/hb-one-to-many/lib
+/hb-one-to-one/bin
+/hb-one-to-one/lib
+/hibernate-toturial/bin
+/hibernate-toturial/lib
+
