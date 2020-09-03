@@ -16,6 +16,12 @@
 /web-customer-trackers/WebContent/WEB-INF/lib
 /web-customer-trackers/bin
 /web-customer-trackers/bin
+
+/web-customer-tracker-app/WebContent/WEB-INF/lib
+/web-customer-tracker-app/bin
+/web-customer-tracker-app/bin
+
 /.metadata/
 /Servers2/
+ Servers2/
 /.gitignore/

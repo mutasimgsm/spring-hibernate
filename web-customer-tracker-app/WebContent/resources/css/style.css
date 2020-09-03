@@ -1,0 +1,52 @@
+.error {
+	color: red
+}
+
+p a {
+	color: blue;
+}
+
+span {
+	color: red;
+}
+
+.list-container {
+	margin: auto;
+	width: 50%;
+	min-width: 450px;
+	background: #d3d3d3;
+	border-radius: 25px;
+	padding: 25px;
+	text-align: center;
+}
+
+.form-container {
+	font-size: 18px;
+	margin: auto;
+	width: 30%;
+	min-width: 280px;
+	background: #d3d3d3;
+	border-radius: 25px;
+	padding: 25px;
+	text-align: center;
+}
+
+ .form-control {
+	border-radius: 5px;
+	padding: 2px 0 2px 0;
+}
+
+.form-control:focus {
+}
+
+table {
+	width: 100%;
+}
+
+table.form { 
+	font-size: 18px;
+}
+
+
+
+
