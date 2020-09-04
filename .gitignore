@@ -21,6 +21,9 @@
 /web-customer-tracker-app/bin
 /web-customer-tracker-app/bin
 
+ /spring-rest-demo/bin
+ /spring-rest-demo/WebContent/WEB-INF/lib
+
 /.metadata/
 /Servers2/
  Servers2/
