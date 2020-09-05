@@ -24,6 +24,19 @@
  /spring-rest-demo/bin
  /spring-rest-demo/WebContent/WEB-INF/lib
 
+/01-spring-boot-demo/WebContent/WEB-INF/lib
+/02-spring-boot-demo/WebContent/WEB-INF/lib
+/03-actuator-demo/WebContent/WEB-INF/lib
+/04-command-line-demo/WebContent/WEB-INF/lib
+/05-properties-demo/WebContent/WEB-INF/lib
+
+/01-spring-boot-demo/bin
+/02-spring-boot-demo/bin
+/03-actuator-demo/bin
+/04-command-line-demo/bin
+/05-properties-demo/bin
+
+
 /.metadata/
 /Servers2/
  Servers2/
